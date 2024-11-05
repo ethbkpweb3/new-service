@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://snaptrade.com/
+
+# Sitemaps
+Sitemap: https://snaptrade.com/sitemap.xml
